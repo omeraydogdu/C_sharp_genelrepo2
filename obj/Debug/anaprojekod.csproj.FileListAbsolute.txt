@@ -1,0 +1,7 @@
+C:\Users\sony\source\repos\Solution1\anaprojekod\bin\Debug\anaprojekod.exe.config
+C:\Users\sony\source\repos\Solution1\anaprojekod\bin\Debug\anaprojekod.exe
+C:\Users\sony\source\repos\Solution1\anaprojekod\bin\Debug\anaprojekod.pdb
+C:\Users\sony\source\repos\Solution1\anaprojekod\obj\Debug\anaprojekod.csproj.AssemblyReference.cache
+C:\Users\sony\source\repos\Solution1\anaprojekod\obj\Debug\anaprojekod.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\Solution1\anaprojekod\obj\Debug\anaprojekod.exe
+C:\Users\sony\source\repos\Solution1\anaprojekod\obj\Debug\anaprojekod.pdb
